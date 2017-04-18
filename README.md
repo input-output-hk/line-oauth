@@ -2,7 +2,7 @@
 
 ## Overview
 
-This package provides a Meteor wrapper for the LINE API methods, including the Login and the Message APIs.
+This package provides a Meteor wrapper for the LINE API methods, including the Login and the Get User Information APIs. Both APIs use OAuth login methodology.
 
 ## Login
 
